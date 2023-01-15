@@ -1,3 +1,3 @@
-std_msgs/String name
+string name
 uint8 color
 String hover_text
